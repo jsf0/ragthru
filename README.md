@@ -1,4 +1,4 @@
-# RAG Proxy Server
+# ragthru
 
 A universal RAG (Retrieval-Augmented Generation) middleware proxy that sits between chat frontends (like LibreChat) and inference backends (like llama.cpp, Ollama, etc.), adding knowledge base capabilities to any OpenAI-compatible LLM service.
 
